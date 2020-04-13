@@ -1,6 +1,8 @@
+# change your file name here
 list1 = open('validate1.txt', 'r')
 list2 = open('validate2.txt', 'r')
 
+# the result will be stored in merge.txt
 result = open('merge.txt', 'w')
 
 mergeList = {}
