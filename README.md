@@ -8,8 +8,8 @@ Gadgets to simplify works | 自用简化工作小工具
 
 Python写脚本灰常棒！故名曰：PyGadgets
 ## Gadgets List
+*每个文件的用法，还是看代码比较好*
 File | Description |  Usage  
 -|-|-
- |  |  |
- |  |  |
- |  |  |
+ fileMerge.py| Extract common numbers from two files | *two *.txt file required |
+ 
