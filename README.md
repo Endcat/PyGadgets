@@ -12,4 +12,4 @@ Python写脚本灰常棒！故名曰：PyGadgets
 File | Description |  Usage  
 -|-|-
  fileMerge.py| Extract common numbers from two files | *two *.txt file required |
- 
+ freq_stat.py| char statistics  | file required |
