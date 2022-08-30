@@ -16,3 +16,4 @@ File | Description |  Usage
  fileMerge.py| Extract common numbers from two files | *two *.txt file required |
  freq_stat.py| char statistics  | file required |
  bili_online.py| Bilibili online stat  |  |
+ bili_popular.py| Bilibili popular videos list  |  |
