@@ -6,10 +6,13 @@ import json
 # follow the step to get credentials
 # https://nemo2011.github.io/bilibili-api/#/get-credential
 
-sessdata = "miaomiaomiao"
-bili_jct = "miaomiaomiao"
-buvid3 = "miaomiaomiao"
-dedeuserid = "miaomiaomiao"
+# 自己拿本地cookies 不要自己填了
+cookies = chrome_cookies('https://www.bilibili.com')
+
+sessdata = cookies['SESSDATA']
+bili_jct = cookies['bili_jct']
+buvid3 = cookies['buvid3']
+dedeuserid = cookies['DedeUserID']
 
 credential = Credential(sessdata=sessdata, bili_jct=bili_jct, buvid3=buvid3, dedeuserid=dedeuserid)
 
