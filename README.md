@@ -17,4 +17,4 @@ File | Description |  Usage
  freq_stat.py| char statistics  | file required |
  bili_online.py| Bilibili online stat  |  |
  bili_popular.py| Bilibili popular videos list  |  |
- bili_dynamic.py| Bilibili feed list  | Credential required |
+ bili_dynamic.py| Bilibili feed list  | local cookies required |
