@@ -18,3 +18,5 @@ File | Description |  Usage
  bili_online.py| Bilibili online stat  |  |
  bili_popular.py| Bilibili popular videos list  |  |
  bili_dynamic.py| Bilibili feed list  | local cookies required |
+ weibo_hot.py| Weibo hot search  |  |
+ zhihu_hotlist.py| zhihu hotlist  |  |
